@@ -6,13 +6,13 @@ A simple 9 key macropad that has shortcuts for coding.
 
 ## Shortcuts
 * CMD+S - Save
-* CMD+P - Quick Open on VSCode
-* CMD+Shift+P - Command Palette on VSCode
-* CMD+/ - Toggle comment on VSCode
-* CMD+J - Opens terminal on VSCode
+* CMD+P - Quick Open
+* CMD+Shift+P - Command Palette
+* CMD+/ - Toggle comment
+* CMD+J - Opens terminal
 * CMD+N - New file
 * CMD+] - Indent
-* CMD+B - Toggle sidebar on VSCode
+* CMD+B - Toggle sidebar
 * CMD+Shift+O - Go to symbol
 
 I made the firmware using KMK
